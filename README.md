@@ -1,4 +1,4 @@
-# Coğrafi Bilgi Sistemlerine Giriş
+# Coğrafi Bilgi Sistemleri
 
 ## 1.Sınıf Güz Final Çalışmalarım
 
