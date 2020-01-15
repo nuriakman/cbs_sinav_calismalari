@@ -8,7 +8,7 @@ Ana kütle birim sayısının çok büyük olmadığı, mekansal olarak çok gen
 
 
 Serinin medyanı, ortadaki rakamdır. Çift elemanlı seride, ortadaki iki rakamın ortalamasıdır
-
+```
 1! : 1
 2! : 2
 3! : 6
