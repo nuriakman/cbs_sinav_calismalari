@@ -16,7 +16,7 @@ Serinin medyanı, ortadaki rakamdır. Çift elemanlı seride, ortadaki iki rakam
 5! : 120   5!'den sonrasın birler basamağı her zaman 0 olacaktır. 
 6! : 720
 7! : 5040
-
+```
 
 Belirli bir güven seviyesinde ana kütle ortalaması küçük örnekler için student t testiyle hesaplanırken, ana kütle varyansı hesaplanırken Khi-kare testinden yararlanılır.
 
