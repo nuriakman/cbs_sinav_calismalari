@@ -80,7 +80,7 @@ Eğer bir alan anahtar olarak tanımlandıysa, her kaydın o veri alanındaki d
 Alt sorguya sahip sorgulama komut dizinlerinde, alt sorgu ifadesi karşılaştımra operatörünün sağında yer almalıdır.
 
 
-[İlişkisel Modeller ve çizgi anlamları](https://ets.anadolu.edu.tr/storage/nfs/questions/acee517bfdaaa23af9083b15f4e144d8.png)
+![İlişkisel Modeller ve çizgi anlamları](https://ets.anadolu.edu.tr/storage/nfs/questions/acee517bfdaaa23af9083b15f4e144d8.png)
 
 
 Konumsal bir nesne veya olay ile ilgili olup konum verisi içermeyen, ölçüm, sayım, deney, gözlem ya da araştırma yolu ile elde edilen, konumsal nesne veya olayların bu özelliğine nitelik ve nicelik karakteristiği denmektedir.
